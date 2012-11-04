@@ -1,0 +1,25 @@
+{
+   "name": "foursquare-js",
+   "version": "0.0.1",
+   "description": "Foursquare client",
+   "keywords": [
+       "foursquare",
+       "api",
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "git://github.com/dreadjr/foursquare-js.git" 
+       } 
+   ],
+   "main": "index",
+   "directories": {
+       "lib": "./lib"
+   },
+   "dependencies": {},
+   "devDependencies": {
+     "vows": "*",
+     "coffee-script": "*"
+   },
+   "engines": { "node": ">=0.4.0" }
+}
