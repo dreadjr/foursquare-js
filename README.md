@@ -1,4 +1,4 @@
-node-4sq
+foursquare-js
 ========
 
 simple wrapper for foursquare api
